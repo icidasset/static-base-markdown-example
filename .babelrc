@@ -1,0 +1,6 @@
+{
+  "presets": [
+    "metalab",
+    "metalab/compatibility"
+  ]
+}
