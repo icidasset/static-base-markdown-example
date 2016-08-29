@@ -9,12 +9,13 @@
   "author": "icid.asset@gmail.com",
   "license": "ISC",
   "devDependencies": {
-    "babel-cli": "^6.10.1",
-    "babel-core": "^6.10.4",
+    "babel-cli": "^6.14.0",
+    "babel-core": "^6.14.0",
     "babel-preset-metalab": "^0.2.1",
+    "gray-matter": "^2.0.2",
     "markdown": "^0.5.0",
     "mustache": "^2.2.1",
-    "static-base": "^0.4.1",
-    "static-base-contrib": "^0.6.1"
+    "static-base": "^1.0.0",
+    "static-base-contrib": "^1.0.1"
   }
 }
